@@ -1,5 +1,5 @@
 # Machine-Learning-Dicoding
-Image Classification using TensorFlow multi class
+Image Classification using Keras and TensorFlow multi class
 
 Rock Paper Scissors Classification
 
