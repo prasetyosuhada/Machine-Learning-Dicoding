@@ -1,5 +1,5 @@
 # Machine-Learning-Dicoding
-Image Classification using Keras and TensorFlow multi class
+Image Classification using Keras and TensorFlow multi class and have model accuracy 95,83%
 
 Rock Paper Scissors Classification
 
